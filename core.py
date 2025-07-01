@@ -29,7 +29,7 @@ class Book:
             loggerr.warning(f"THE BOOK (TITLE : {self.titlee} , AUTHOR : {self.author} , ID : {self.id}) HAS RUN OUT OF STOCK")
         self.statuss=stad
         return stad
-
+11
     
 class Members:
     def __init__(self,name,id):
