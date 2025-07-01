@@ -37,3 +37,5 @@
 - All passwords in this system are set to `"02042007"` by default (used with `@secure`)
 - Logging files will be created automatically on first run
 - This project is a raw skill-building tool — not meant for production use
+
+'''i know the naming of variables is messy but i am working on it , i built this when i had 1.5 months left to start in my first semister of college'''
